@@ -1,5 +1,5 @@
 // Name: Navigation Assist 
-// Author: zand22
+// Author: dsl-22
 // Version: 0.1
 // kOS Version: 1.4.0.0
 // KSP Version: 1.12.5
